@@ -56,11 +56,12 @@ Employee attrition can significantly impact organizational stability, productivi
 ## How to Run the Project  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your_username/attrition-prediction.git  
+   git clone https://github.com/alifgala/Final_Project_Attrtion_Prediction  
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt  
 3.Launch the Streamlit application:
-  ```bash
-streamlit run final_app.py
+   ```bash
+   streamlit run final_app.py
+
 
