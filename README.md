@@ -64,8 +64,3 @@ Employee attrition can significantly impact organizational stability, productivi
   ```bash
 streamlit run final_app.py
 
-Dataset: Kaggle Synthetic Employee Attrition
-Demo Application: Streamlit Deployment
-Contact:
-LinkedIn: [linkedin.com/in/Alifgalabuana](https://www.linkedin.com/in/alifgalabuana/)
-
