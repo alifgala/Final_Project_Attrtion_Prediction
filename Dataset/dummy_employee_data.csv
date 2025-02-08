@@ -1,0 +1,101 @@
+Employee ID,Age,Gender,Years at Company,Monthly Income,Job Role,Work-Life Balance,Job Satisfaction,Performance Rating,Number of Promotions,Overtime,Distance from Home,Education Level,Marital Status,Number of Dependents,Job Level,Company Size,Company Tenure,Remote Work,Leadership Opportunities,Innovation Opportunities,Company Reputation,Employee Recognition
+1,56,Male,29,11815,Technology,Below Average,Medium,Low,5,Yes,42,Master’s Degree,Married,1,Entry,Large,38,Yes,No,Yes,Poor,Low
+2,46,Female,4,12208,Healthcare,Excellent,Very Low,Low,3,No,22,Bachelor’s Degree,Single,3,Mid,Large,16,No,No,Yes,Excellent,Low
+3,32,Female,0,14835,Finance,Poor,Medium,Below Average,3,No,21,High School,Single,0,Mid,Large,13,Yes,Yes,Yes,Good,High
+4,25,Female,18,5049,Healthcare,Good,High,Average,4,Yes,6,Bachelor’s Degree,Divorced,4,Entry,Medium,30,Yes,No,Yes,Very Poor,Medium
+5,38,Male,9,8423,Healthcare,Excellent,High,High,1,No,1,Bachelor’s Degree,Divorced,1,Senior,Medium,23,Yes,Yes,No,Very Poor,High
+6,56,Female,11,14915,Technology,Poor,Low,High,3,No,5,PhD,Married,0,Entry,Large,34,Yes,Yes,No,Very Poor,Very Low
+7,36,Male,23,7548,Healthcare,Below Average,Very Low,Low,3,Yes,41,Master’s Degree,Single,2,Senior,Large,33,No,Yes,No,Excellent,Very Low
+8,40,Male,14,6108,Healthcare,Below Average,Medium,Low,1,Yes,12,Associate Degree,Single,3,Mid,Medium,2,No,Yes,No,Poor,Very Low
+9,28,Female,26,10158,Technology,Poor,High,Below Average,1,Yes,26,Master’s Degree,Divorced,0,Senior,Medium,36,No,No,Yes,Very Poor,Medium
+10,28,Female,21,13248,Healthcare,Good,High,High,3,No,46,Master’s Degree,Married,1,Mid,Small,39,Yes,Yes,Yes,Excellent,Low
+11,41,Male,23,10400,Healthcare,Below Average,Medium,Low,1,Yes,34,Bachelor’s Degree,Divorced,2,Senior,Small,25,Yes,No,Yes,Good,Medium
+12,53,Male,8,6170,Healthcare,Below Average,Low,Average,3,Yes,49,Master’s Degree,Divorced,1,Senior,Medium,22,No,No,No,Poor,Medium
+13,57,Female,19,12874,Finance,Below Average,High,Average,3,Yes,14,High School,Divorced,1,Senior,Large,38,Yes,No,Yes,Good,Low
+14,41,Female,16,5255,Finance,Poor,Very Low,Low,4,Yes,26,Bachelor’s Degree,Divorced,2,Entry,Large,14,Yes,No,Yes,Excellent,High
+15,20,Female,29,4154,Finance,Excellent,High,Low,0,Yes,45,High School,Single,1,Entry,Large,3,Yes,Yes,No,Very Poor,Very Low
+16,39,Male,16,7499,Technology,Below Average,Very Low,High,3,Yes,27,Associate Degree,Single,2,Mid,Large,28,Yes,Yes,No,Very Poor,High
+17,19,Male,25,9295,Media,Excellent,Medium,High,2,No,9,Bachelor’s Degree,Divorced,0,Mid,Small,21,No,No,Yes,Excellent,Very Low
+18,41,Male,19,9197,Healthcare,Good,Very Low,Below Average,5,No,26,Associate Degree,Married,2,Entry,Medium,24,No,No,Yes,Very Poor,Medium
+19,47,Male,11,14383,Healthcare,Below Average,Medium,High,0,Yes,47,Bachelor’s Degree,Married,2,Mid,Large,12,No,Yes,Yes,Poor,Very Low
+20,55,Male,29,12888,Technology,Below Average,Very Low,Average,0,Yes,22,PhD,Married,3,Entry,Small,17,Yes,No,Yes,Excellent,Medium
+21,19,Male,6,4648,Healthcare,Good,Medium,Average,0,Yes,47,Master’s Degree,Married,2,Senior,Large,32,No,Yes,Yes,Good,High
+22,38,Female,1,8539,Finance,Below Average,Very Low,Low,4,No,30,PhD,Divorced,2,Mid,Medium,15,No,No,Yes,Excellent,Medium
+23,50,Male,2,12637,Media,Excellent,Low,High,3,No,43,Associate Degree,Single,0,Mid,Small,1,Yes,Yes,No,Poor,High
+24,29,Male,16,7199,Education,Poor,Very Low,Below Average,4,No,48,Master’s Degree,Married,3,Entry,Medium,34,Yes,No,No,Poor,Low
+25,39,Male,4,11445,Healthcare,Excellent,Very Low,Average,3,No,17,Bachelor’s Degree,Divorced,4,Mid,Medium,33,No,No,No,Excellent,Low
+26,42,Female,16,14375,Finance,Poor,Low,Average,4,No,26,Master’s Degree,Married,0,Mid,Small,29,No,Yes,Yes,Excellent,Low
+27,44,Male,23,5557,Education,Poor,High,Below Average,4,No,36,High School,Married,0,Senior,Small,12,No,No,No,Very Poor,Medium
+28,59,Male,16,8592,Media,Excellent,High,Below Average,5,No,1,Master’s Degree,Divorced,4,Mid,Small,12,No,No,Yes,Poor,Low
+29,45,Female,26,3098,Education,Excellent,Very Low,Average,2,No,8,High School,Single,2,Senior,Small,17,Yes,Yes,Yes,Excellent,Very Low
+30,33,Male,16,5200,Finance,Excellent,Low,Average,4,No,49,Master’s Degree,Single,1,Entry,Small,31,No,No,No,Excellent,High
+31,32,Male,1,5961,Education,Excellent,Very Low,Below Average,5,Yes,35,High School,Divorced,3,Mid,Small,31,No,Yes,Yes,Poor,High
+32,20,Male,1,7973,Technology,Good,Medium,Average,1,Yes,15,Associate Degree,Single,1,Senior,Small,34,Yes,Yes,Yes,Excellent,Very Low
+33,54,Male,27,7433,Education,Below Average,Medium,Low,2,Yes,47,PhD,Divorced,4,Entry,Large,38,No,No,No,Very Poor,Medium
+34,24,Male,21,14969,Healthcare,Poor,Very Low,Low,4,Yes,22,Bachelor’s Degree,Divorced,0,Mid,Medium,28,Yes,No,No,Poor,Medium
+35,38,Female,22,5869,Healthcare,Excellent,High,Below Average,0,No,14,Master’s Degree,Divorced,0,Entry,Small,28,Yes,No,No,Very Poor,High
+36,26,Female,4,14426,Technology,Excellent,High,High,1,No,26,PhD,Single,3,Mid,Large,15,Yes,No,Yes,Very Poor,Low
+37,56,Female,0,14983,Finance,Excellent,Very Low,Below Average,1,Yes,28,Bachelor’s Degree,Divorced,0,Entry,Large,9,No,No,No,Very Poor,Medium
+38,35,Male,0,3956,Healthcare,Good,Very Low,Below Average,5,No,23,Bachelor’s Degree,Married,0,Entry,Large,29,No,No,No,Very Poor,Medium
+39,21,Male,18,11352,Media,Excellent,Medium,High,1,Yes,14,High School,Single,3,Senior,Medium,24,Yes,No,Yes,Poor,Very Low
+40,42,Male,29,8699,Healthcare,Excellent,High,High,2,No,24,Associate Degree,Single,3,Entry,Small,38,No,Yes,No,Very Poor,Very Low
+41,31,Female,1,9944,Healthcare,Excellent,Very Low,High,4,Yes,2,Associate Degree,Single,4,Mid,Large,19,No,No,No,Very Poor,Low
+42,26,Male,20,7493,Finance,Below Average,Medium,Low,4,No,45,PhD,Single,0,Mid,Medium,4,Yes,Yes,No,Excellent,Medium
+43,43,Male,11,12492,Education,Good,High,Average,0,No,26,Associate Degree,Married,0,Senior,Medium,0,Yes,No,Yes,Poor,Medium
+44,19,Female,25,7911,Healthcare,Excellent,Low,Low,5,Yes,14,Master’s Degree,Single,4,Mid,Medium,29,No,No,Yes,Poor,Very Low
+45,37,Male,5,6987,Technology,Poor,Medium,Average,0,No,7,Associate Degree,Single,2,Mid,Large,2,Yes,Yes,Yes,Good,Medium
+46,45,Female,22,12719,Education,Poor,High,Low,1,Yes,3,PhD,Divorced,2,Mid,Small,13,No,No,Yes,Poor,High
+47,24,Female,3,9015,Media,Poor,High,Average,0,Yes,47,Associate Degree,Single,2,Entry,Large,29,No,No,No,Poor,Very Low
+48,25,Female,22,4218,Finance,Good,Medium,Low,2,Yes,23,Master’s Degree,Married,4,Entry,Large,3,No,Yes,Yes,Good,Low
+49,52,Male,10,7496,Media,Good,Low,High,4,Yes,46,High School,Married,0,Mid,Small,17,No,No,Yes,Poor,Very Low
+50,31,Male,23,7735,Education,Poor,Medium,Below Average,1,No,43,PhD,Married,4,Senior,Small,36,Yes,No,No,Poor,Medium
+51,34,Male,26,14296,Education,Excellent,High,Low,0,No,47,High School,Married,4,Entry,Small,24,Yes,No,No,Poor,Low
+52,53,Male,16,13927,Education,Good,Very Low,Average,5,No,45,High School,Single,2,Senior,Medium,0,Yes,Yes,No,Poor,Very Low
+53,57,Male,5,7555,Media,Poor,Very Low,High,2,Yes,18,High School,Single,1,Mid,Small,14,Yes,No,Yes,Good,High
+54,21,Male,23,12146,Education,Poor,Medium,Low,2,No,38,Bachelor’s Degree,Married,0,Mid,Large,8,No,No,Yes,Poor,High
+55,19,Male,4,11050,Media,Excellent,High,Low,0,Yes,35,Bachelor’s Degree,Married,2,Entry,Small,14,No,No,Yes,Poor,Very Low
+56,23,Female,19,6446,Education,Below Average,Very Low,High,4,No,15,High School,Single,1,Mid,Large,23,Yes,No,No,Good,High
+57,59,Male,1,4045,Technology,Good,High,Low,0,No,25,PhD,Married,1,Entry,Medium,3,No,Yes,No,Excellent,High
+58,21,Female,5,9893,Education,Excellent,Medium,Below Average,1,No,37,Master’s Degree,Divorced,3,Mid,Large,11,No,Yes,Yes,Very Poor,High
+59,46,Male,21,4693,Media,Poor,Very Low,Low,0,Yes,28,Master’s Degree,Married,0,Mid,Large,36,No,No,No,Excellent,Low
+60,35,Male,10,6436,Healthcare,Poor,High,Below Average,2,No,10,Associate Degree,Married,1,Entry,Small,36,Yes,No,No,Good,High
+61,43,Male,15,11754,Education,Excellent,Very Low,Below Average,0,No,39,PhD,Divorced,2,Entry,Small,5,Yes,Yes,No,Very Poor,High
+62,51,Female,15,13677,Healthcare,Good,Medium,High,4,Yes,17,Bachelor’s Degree,Divorced,3,Entry,Large,38,Yes,Yes,Yes,Good,High
+63,27,Female,0,8895,Technology,Below Average,High,Low,5,No,39,High School,Single,0,Mid,Small,23,No,No,No,Good,Low
+64,53,Female,8,6354,Finance,Below Average,Very Low,High,3,Yes,22,Associate Degree,Single,4,Mid,Medium,10,Yes,Yes,No,Poor,Very Low
+65,31,Female,27,3225,Technology,Poor,Medium,Low,0,No,26,Master’s Degree,Divorced,2,Senior,Medium,12,Yes,No,Yes,Very Poor,Medium
+66,48,Male,26,7893,Education,Good,Very Low,Low,4,Yes,44,Bachelor’s Degree,Divorced,1,Entry,Small,33,Yes,Yes,Yes,Poor,High
+67,32,Female,5,10022,Healthcare,Below Average,Very Low,Average,4,Yes,25,Bachelor’s Degree,Single,1,Mid,Medium,24,Yes,Yes,No,Very Poor,Very Low
+68,25,Male,15,12151,Healthcare,Good,Low,Low,5,No,17,High School,Married,2,Mid,Small,6,Yes,Yes,No,Good,High
+69,31,Male,28,8600,Media,Good,Low,High,2,Yes,13,Master’s Degree,Divorced,1,Entry,Large,3,Yes,Yes,Yes,Good,Low
+70,40,Female,2,14259,Healthcare,Poor,Medium,Below Average,4,Yes,20,PhD,Single,3,Senior,Large,7,No,No,Yes,Excellent,Very Low
+71,57,Female,19,10996,Media,Below Average,Low,Low,4,Yes,25,Bachelor’s Degree,Married,0,Entry,Medium,19,No,Yes,No,Very Poor,Low
+72,38,Female,27,12007,Finance,Excellent,Medium,Average,4,Yes,4,High School,Divorced,3,Senior,Small,28,Yes,Yes,No,Poor,High
+73,33,Female,26,10683,Education,Poor,Low,High,4,Yes,10,PhD,Married,1,Mid,Small,9,Yes,No,No,Excellent,High
+74,35,Female,3,7642,Media,Below Average,Very Low,Low,1,Yes,3,Master’s Degree,Single,4,Senior,Medium,33,No,Yes,No,Excellent,Low
+75,41,Female,18,14312,Finance,Below Average,Medium,High,1,No,41,Bachelor’s Degree,Divorced,0,Mid,Large,25,No,Yes,Yes,Excellent,Medium
+76,43,Female,25,10679,Healthcare,Below Average,Medium,Average,2,Yes,45,PhD,Married,0,Entry,Medium,2,Yes,No,No,Poor,Low
+77,42,Female,2,11208,Healthcare,Below Average,Very Low,Average,0,Yes,18,PhD,Divorced,2,Entry,Large,5,Yes,Yes,No,Excellent,High
+78,58,Male,18,10339,Finance,Below Average,Medium,High,4,No,47,PhD,Married,2,Entry,Small,4,Yes,No,Yes,Poor,Low
+79,46,Female,19,12435,Healthcare,Good,Medium,Low,5,No,36,Bachelor’s Degree,Single,4,Senior,Large,4,Yes,No,No,Excellent,Medium
+80,32,Female,6,5205,Finance,Poor,Low,Below Average,0,No,47,Bachelor’s Degree,Single,0,Mid,Medium,22,No,No,Yes,Poor,Low
+81,18,Male,19,13716,Media,Good,Medium,Average,5,No,22,Associate Degree,Divorced,4,Entry,Small,8,Yes,No,No,Good,Medium
+82,42,Female,8,4069,Media,Excellent,High,Low,0,No,34,Master’s Degree,Married,2,Entry,Medium,34,Yes,Yes,No,Good,Medium
+83,24,Male,0,6444,Finance,Below Average,Very Low,Low,2,No,47,High School,Divorced,2,Mid,Medium,19,Yes,No,Yes,Good,Low
+84,26,Male,7,13757,Media,Poor,Low,Below Average,4,No,8,PhD,Divorced,0,Entry,Large,34,Yes,Yes,Yes,Good,Low
+85,41,Female,6,4060,Media,Below Average,Low,Average,4,Yes,40,Associate Degree,Married,3,Mid,Medium,17,No,Yes,No,Good,Very Low
+86,18,Male,17,5327,Media,Poor,High,Average,3,Yes,49,High School,Married,1,Mid,Large,16,No,Yes,No,Excellent,High
+87,25,Male,7,6420,Technology,Good,Very Low,Low,5,No,44,Associate Degree,Married,2,Mid,Small,23,No,Yes,No,Excellent,Medium
+88,41,Male,0,3301,Education,Poor,Very Low,Low,0,Yes,19,Bachelor’s Degree,Single,2,Mid,Large,2,Yes,Yes,Yes,Excellent,Very Low
+89,28,Male,10,3606,Healthcare,Excellent,Low,Below Average,0,Yes,42,PhD,Divorced,3,Mid,Small,31,Yes,Yes,No,Poor,Low
+90,34,Female,27,6170,Technology,Excellent,Medium,Below Average,1,Yes,41,High School,Divorced,3,Senior,Large,34,No,Yes,Yes,Poor,High
+91,25,Male,24,3699,Media,Poor,Low,Average,3,No,37,High School,Single,4,Entry,Medium,37,Yes,Yes,Yes,Poor,Very Low
+92,52,Female,24,8088,Finance,Poor,Very Low,High,1,No,6,High School,Married,4,Senior,Large,12,Yes,Yes,No,Poor,Medium
+93,52,Male,17,12331,Media,Poor,High,Average,1,Yes,26,High School,Single,1,Entry,Large,24,No,Yes,Yes,Good,Very Low
+94,50,Male,22,3190,Education,Poor,Low,Low,1,No,34,High School,Single,1,Senior,Small,8,No,No,No,Good,Medium
+95,22,Male,29,13492,Media,Excellent,Very Low,Average,5,Yes,45,Associate Degree,Single,0,Mid,Medium,3,No,No,No,Good,Low
+96,59,Male,9,3980,Finance,Below Average,Low,High,5,Yes,6,PhD,Divorced,4,Entry,Large,13,No,No,No,Very Poor,High
+97,56,Female,2,5975,Education,Poor,Medium,Below Average,2,Yes,37,Bachelor’s Degree,Single,2,Entry,Medium,36,Yes,Yes,No,Excellent,High
+98,58,Female,6,9102,Media,Poor,Low,High,2,Yes,33,Bachelor’s Degree,Divorced,4,Senior,Large,33,Yes,No,No,Poor,High
+99,45,Male,27,4184,Education,Excellent,Low,High,1,No,22,Bachelor’s Degree,Divorced,2,Senior,Large,10,No,No,Yes,Poor,Low
+100,24,Male,15,6327,Healthcare,Excellent,Very Low,High,3,No,21,Bachelor’s Degree,Divorced,3,Entry,Medium,2,Yes,No,Yes,Good,Medium
