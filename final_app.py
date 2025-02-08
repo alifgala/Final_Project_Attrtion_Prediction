@@ -72,6 +72,7 @@ def predict_employee_attrition(input_data):
 # Streamlit UI
 st.title('Employee Attrition Prediction')
 st.write('Upload a CSV file to predict employee attrition.')
+st.write('Dataset for test: https://bit.ly/Dummy-Data-for-Test')
 
 # File uploader
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
